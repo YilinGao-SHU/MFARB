@@ -9,8 +9,8 @@ This is a face attribute recognition benchmark with mask robustness. And it is d
     display: inline-block;
     color: #999;
     padding: 2px;">
-       Examples of our dataset. The first row is the real masked face, and the
+       Fig. 1. Examples of our dataset. The first row is the real masked face, and the
        second and third rows are the synthetic masked face based on MAAD-Face
-       and CelebA respectively.
+       and CelebA respectively
   	</div>
 </center>
